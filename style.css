@@ -135,7 +135,7 @@ section.change {
 /* Section-1 */
 .section-1 {
   flex-direction: column;
-  background: url(images/bg-section1.jpg) center no-repeat;
+  background: url(images/bg-section1.webp) center no-repeat;
   background-size: cover;
 }
 
@@ -301,7 +301,7 @@ section.change {
 /* Section 5 */
 .section-5 {
   background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.8)),
-    url(images/bg-section5.jpg) center no-repeat;
+    url(images/bg-section5.webp) center no-repeat;
   background-size: cover;
   display: flex;
   flex-direction: column;
